@@ -5,7 +5,7 @@ Practising drawing in CSS (shapes and gradients).
 The illustration was made for the Codevember - Carrot. The image is completely responsive.
 
 ## Screenshots
-![preview](./img/mockup.png)
+![preview](./img/bunny.png)
 
 ## Technologies
 * HTML
